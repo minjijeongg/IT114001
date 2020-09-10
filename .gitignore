@@ -1,4 +1,6 @@
-desktop.ini
 myprivatecreds.*
+test.*
+*test
+test*
+*test*
 *.log
-.idea/*

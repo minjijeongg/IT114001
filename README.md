@@ -1,5 +1,5 @@
 # IT114
-## Minji
+## Minji Jeong
 
 
-My first file
+My second first file
